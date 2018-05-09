@@ -3,9 +3,6 @@
  *
  *  Written by: Mortaza Seydi - Zanjan University - Winter 2018
  *
- *  Assignment 2
- *  Exercise 4
- *
  */
 
 import java.util.ArrayList;
