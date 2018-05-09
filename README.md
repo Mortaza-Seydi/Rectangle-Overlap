@@ -1,2 +1,2 @@
 # Rectangle-Overlap
-Algorithm to detect condition of two rectangles (Contains, Overlap)
+Algorithm To Detect Condition Of Two Rectangles (Contains, Overlap)
